@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+header div {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.dots {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tooltip img {
+    width: 16px;
+}

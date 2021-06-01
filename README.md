@@ -1,0 +1,1 @@
+##This project tries to recreate Google homepage just for learning process. Technologies are used is HTML, CSS. Regards!
